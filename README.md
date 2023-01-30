@@ -20,7 +20,6 @@
 
  <h4>~ Precione as teclas [Ctrl + Shift + ']~</h4>
  <br>
- <br>
  <h2>De run no código<h2>
  <br>
  <h4>Agora só se aventurar, simule suas fases de grupo, conheça as regras e as seleções, fique a vontade para fazer alterações, desde as seleções que estão participando da copa, até os times com outros jogadores!</h4>
