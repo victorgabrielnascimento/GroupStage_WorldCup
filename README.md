@@ -11,7 +11,7 @@
 ##  Prerequisites
  - Before start the project, you will need this tools:
     - ✔️ [VsCode](https://code.visualstudio.com/download);
-    - ✔️ Python package (https://www.python.org/downloads/);
+    - ✔️ [Python package](https://www.python.org/downloads/);
  
 ## 📄 Instructions:
 
