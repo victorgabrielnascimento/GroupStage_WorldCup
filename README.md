@@ -2,29 +2,40 @@
 
 <br>
 
-## Seja bem vindo ao meu projeto de fase de grupos da Copa do Mundo de 2k22! Usei a linguagem Python para realizar este projeto, o projeto é rodado pelo terminal em formato menu com algumas interações, como no menu principal onde temos a opções: 
-[iniciar jogos] vai direto para a simulação dos jogos que resultam em uma tabela de jogos, onde mostra os resultados de todos os jogos disputados pelas seleções e por fim a tabela de pontos, onde ficam alocados os pontos, vitórias, empates, derrotas e saldo de gols de cada seleção e o mesmo printa quais foram as duas seleções classificadas!
+## Welcome to my 2k22 World Cup group stage project! I used the Python language to carry out this project, the project is run by the terminal in menu format with some interactions, as in the main menu where we have the options:
+[start game] goes straight to the simulation of the games that result in a game table, where it shows the results of all the games played by the selections and finally the points table, where the points, wins, draws, defeats and goal balance of each selection and the same printa which were the two classified selections!
 
-<p>Supondo que você já leu a descrição do repositório, na linha 17 é onde se encontram as instruções para que possa rodar o APP!</p>
 <br>
-<p>Mas caso não tenha lido, aqui vai um breve resumo, o projeto é um simulador de fase de grupos que roda no terminal no formato menu, com opções interativas básicas, como [iniciar jogos] que vai iniciar a simulação. [regras] que explica para os leigos em futebol como funciona o sistema de pontos, classificações etc... [Conhecer as seleções] onde mostra as escalações de todas as seleções presentes na fase de grupos, por fim [Sair] que apenas fecha o terminal.
+<p>This projeto is a group stage simulator that runs in the terminal in menu format, with basic interactive options, such as [start game] which will start the simulation. [rules] that explains to football laypeople how the points system works, classifications, etc... [Know the selections] where it shows the lineups of all the selections present in the group stage, finally [Exit] which only closes the terminal.
 
-##  Pré Requisitos
- - Antes de iniciar o projeto, você vai precisar das seguintes ferramentas: 
+##  Prerequisites
+ - Before start the project, you will need this tools:
     - ✔️ [VsCode](https://code.visualstudio.com/download);
     - ✔️ Python package (https://www.python.org/downloads/);
  
-## 📄 Instruções
- <br>
- <h2>Baixe a pasta, extraia e abra com o VsCode</h2> 
+## 📄 Instructions:
 
- <h4>~ Precione as teclas [Ctrl + Shift + ']~</h4>
+-Create a fork to your rep, or download the file and open it in your vscode
+
+ <h3>To fork click here:</h3>
+ 
+  ![fork](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/dad949c9-3e0a-40b0-a4bd-361f969abd4d)
+
+  <h3>To download click here:</h3>
+
+![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
+
+ <h2>Press [Ctrl + Shift + '] keys</h2>
  <br>
- <h2>De run no código<h2>
+ <h2>Run in code<h2>
+
+![image](https://github.com/victorgabrielnascimento/BarCode_and_QRCode_Generator/assets/105366808/b4b69161-3da0-47c6-aa40-651aec0ed970)
  <br>
- <h4>Agora só se aventurar, simule suas fases de grupo, conheça as regras e as seleções, fique a vontade para fazer alterações, desde as seleções que estão participando da copa, até os times com outros jogadores!</h4>
+<h4>Now just venture out, simulate your group stages, get to know the rules and selections, feel free to make changes, from the selections that are participating in the cup, to the teams with other players!</h4>
  <br>
  
- ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
- ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
 
+
+ ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
+ ## 🌟 Please support me starring this project repositorie 🌟
+ ## 📚 See more projects that I developed-> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
